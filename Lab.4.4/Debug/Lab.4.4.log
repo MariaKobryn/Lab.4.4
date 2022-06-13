@@ -1,0 +1,21 @@
+﻿  Date.cpp
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Date.cpp(135,6): warning C4101: 'ostatok': unreferenced local variable
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Date.cpp(155,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Date.cpp(156,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Date.cpp(157,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Date.cpp(154,6): warning C4101: 'ostatok': unreferenced local variable
+  Lab.4.4.cpp
+  Time.cpp
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Time.cpp(127,90): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Time.cpp(128,102): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Time.cpp(129,102): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Time.cpp(126,6): warning C4101: 'ostatok': unreferenced local variable
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Time.cpp(146,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Time.cpp(147,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Time.cpp(148,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Time.cpp(145,6): warning C4101: 'ostatok': unreferenced local variable
+  Triad.cpp
+  Generating Code...
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Time.cpp(90): warning C4715: 'Time::Сomparison': not all control paths return a value
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Date.cpp(101): warning C4715: 'Date::Сomparison': not all control paths return a value
+  Lab.4.4.vcxproj -> C:\Users\Maria\source\repos\Lab.4.4\Debug\Lab.4.4.exe

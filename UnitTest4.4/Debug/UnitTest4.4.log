@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  UnitTest4.4.cpp
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Time.cpp(127,90): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Time.cpp(128,102): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Time.cpp(129,102): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Time.cpp(126,6): warning C4101: 'ostatok': unreferenced local variable
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Time.cpp(146,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Time.cpp(147,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Time.cpp(148,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Time.cpp(145,6): warning C4101: 'ostatok': unreferenced local variable
+C:\Users\Maria\source\repos\Lab.4.4\Lab.4.4\Time.cpp(90): warning C4715: 'Time::Сomparison': not all control paths return a value
+     Creating library C:\Users\Maria\source\repos\Lab.4.4\Debug\UnitTest4.4.lib and object C:\Users\Maria\source\repos\Lab.4.4\Debug\UnitTest4.4.exp
+  UnitTest4.4.vcxproj -> C:\Users\Maria\source\repos\Lab.4.4\Debug\UnitTest4.4.dll
